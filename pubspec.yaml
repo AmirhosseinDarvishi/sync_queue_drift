@@ -1,6 +1,6 @@
 name: sync_queue_drift
 description: "A durable Drift/SQLite store for the sync_queue offline-first mutation queue and sync engine."
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/AmirhosseinDarvishi/sync_queue_drift
 issue_tracker: https://github.com/AmirhosseinDarvishi/sync_queue_drift/issues
 topics:

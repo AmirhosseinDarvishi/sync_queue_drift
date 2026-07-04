@@ -1,3 +1,8 @@
+## 0.1.1
+
+* No functional changes. Re-release so pub.dev analysis resolves the published
+  `sync_queue` 1.2.0 dependency.
+
 ## 0.1.0
 
 * Add `SyncQueueDriftStore`, a durable Drift/SQLite `SyncStore` for
