@@ -27,7 +27,7 @@ Add the dependencies:
 
 ```yaml
 dependencies:
-  sync_queue: ^1.1.1
+  sync_queue: ^1.2.0
   sync_queue_drift: ^0.1.0
   drift: ^2.20.0
   sqlite3_flutter_libs: ^0.5.0 # bundles SQLite on Android/iOS/macOS

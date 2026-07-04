@@ -18,7 +18,7 @@ dependencies:
   flutter:
     sdk: flutter
   drift: ^2.20.0
-  sync_queue: ^1.1.1
+  sync_queue: ^1.2.0
 
 dev_dependencies:
   flutter_test:
