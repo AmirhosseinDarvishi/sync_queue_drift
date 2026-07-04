@@ -1,0 +1,28 @@
+name: sync_queue_drift
+description: "A durable Drift/SQLite store for the sync_queue offline-first mutation queue and sync engine."
+version: 0.1.0
+repository: https://github.com/AmirhosseinDarvishi/sync_queue_drift
+issue_tracker: https://github.com/AmirhosseinDarvishi/sync_queue_drift/issues
+topics:
+  - flutter
+  - offline-first
+  - sync
+  - drift
+  - sqlite
+
+environment:
+  sdk: ">=3.12.0 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  drift: ^2.20.0
+  sync_queue: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
